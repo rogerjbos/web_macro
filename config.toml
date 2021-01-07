@@ -60,7 +60,7 @@ copyright = "Roger J. Bos, CFA"
     weight = 1
 [[menu.main]]
     name = "Charts"
-    url = "/stats/"
+    url = "/guide/"
     weight = 2
 
 [params]
